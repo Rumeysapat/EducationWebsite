@@ -1,0 +1,7 @@
+images/
+*.log
+bin/
+obj/
+.DS_Store
+
+
