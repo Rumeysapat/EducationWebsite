@@ -40,3 +40,6 @@ Ayrıca responsive tasarım, animasyonlar, SwiperJS slider ve form entegrasyonu 
 🔗 Canlı Demo: [https://rumeysapat.github.io/EducationWebsite/](https://rumeysapat.github.io/EducationWebsite/)
 
 
+![Demo](images/demo.gif)
+
+
