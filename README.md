@@ -35,5 +35,8 @@ Ayrıca responsive tasarım, animasyonlar, SwiperJS slider ve form entegrasyonu 
 - **Iconscout Unicons**  
 - **SwiperJS** (Slider için)  
 - **FormSpree** (Form gönderimi için)  
-
 ---
+
+🔗 Canlı Demo: [https://rumeysapat.github.io/EducationWebsite/](https://rumeysapat.github.io/EducationWebsite/)
+
+
